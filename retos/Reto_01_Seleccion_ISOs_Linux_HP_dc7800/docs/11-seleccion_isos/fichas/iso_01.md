@@ -14,7 +14,7 @@
 - **Tamaño aproximado de la ISO:** 1.1GB 
 
 ## 3. Motivos de selección
-He elegido esta ISO porque es un sistema operativo basado en Debian (que a mí, por lo menos, me da mucha seguridad), soporta arquitectura de 64 bits de doble núcleo o incluso menos. Requiere mínimo 256-512MB de RAM (dependiendo de la versión de la distro)
+- He elegido esta ISO porque es un sistema operativo basado en Debian (que a mí, por lo menos, me da mucha seguridad), soporta arquitectura de 64 bits de doble núcleo o incluso menos. Requiere mínimo 256-512MB de RAM (dependiendo de la versión de la distro)
 
 ## 4. Posibles riesgos o dudas
 - Podría no ser demasiado estable, ya que al utilizar Debian Trixie que es de la parte de testing de Debian puede presentar algún fallo imprevisto, errores de software o inestabilidad general. 
