@@ -11,7 +11,7 @@
 - **RAM mínima indicada por la fuente:** 256MB-512MB 
 - **Espacio en disco mínimo:** 400-600MB 
 - **Tipo de entorno de escritorio:** X.Org 
-- **Tamaño aproximado de la ISO:** 1.1GB 
+- **Tamaño aproximado de la ISO:** 1.1GB (Normalmente 1.5GB)
 
 ## 3. Motivos de selección
 - He elegido esta ISO porque es un sistema operativo basado en Debian (que a mí, por lo menos, me da mucha seguridad), soporta arquitectura de 64 bits de doble núcleo o incluso menos. Requiere mínimo 256-512MB de RAM (dependiendo de la versión de la distro)
@@ -26,7 +26,7 @@
 ## 5. Papel dentro del plan
 - [ ] Opción principal
 - [ ] Alternativa
-- [ ] Respaldo
+- [X] Respaldo
 
 ## 6. Fuente consultada
-- **Web o documentación oficial:**  
+- **Web o documentación oficial:** https://puppylinux-woof-ce.github.io/

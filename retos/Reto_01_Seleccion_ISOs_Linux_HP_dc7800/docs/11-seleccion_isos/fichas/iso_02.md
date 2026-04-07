@@ -23,8 +23,8 @@
 
 ## 5. Papel dentro del plan
 - [ ] Opción principal
-- [ ] Alternativa
+- [X] Alternativa
 - [ ] Respaldo
 
 ## 6. Fuente consultada
-- **Web o documentación oficial:**  
+- **Web o documentación oficial:** https://sparkylinux.org/about/
