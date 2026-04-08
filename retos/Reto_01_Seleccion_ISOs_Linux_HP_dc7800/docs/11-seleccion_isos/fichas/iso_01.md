@@ -5,7 +5,7 @@
 - **Versión:** TrixiePup64  
 - **Edición o sabor:** Pup64-Retro-2509 basado en Debian 13.
 - **Arquitectura:** 64 bits 
-- **Enlace oficial de descarga:** https://sourceforge.net/projects/pb-gh-releases/files/TrixiePup64Retro_release/ 
+- **Enlace oficial de descarga:** https://sourceforge.net/projects/pb-gh-releases/files/TrixiePup64Retro_release/TrixiePup64-Retro-2509-260401.iso/download 
 
 ## 2. Requisitos y características
 - **RAM mínima indicada por la fuente:** 256MB-512MB 

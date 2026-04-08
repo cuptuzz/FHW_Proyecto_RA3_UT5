@@ -5,7 +5,7 @@
 - **Versión:** 23.1 "Arditi del Popolo"
 - **Edición o sabor:** Full edition (runit)
 - **Arquitectura:** 64 bits
-- **Enlace oficial de descarga:** https://antixlinux.com/download/
+- **Enlace oficial de descarga:** https://sourceforge.net/projects/antix-linux/files/Final/antiX-26/antiX-26_x64-full.iso/download
 
 ## 2. Requisitos y características
 - **RAM mínima indicada por la fuente:** 256MB

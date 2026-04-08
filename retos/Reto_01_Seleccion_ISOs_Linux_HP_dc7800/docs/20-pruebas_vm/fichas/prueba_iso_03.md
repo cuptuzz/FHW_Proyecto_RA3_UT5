@@ -1,30 +1,35 @@
 # Prueba ISO 03
 
 ## 1. Datos generales
-- **Nombre de la ISO probada:**  
-- **Fecha:**  
-- **Software de virtualización:**  
+- **Nombre de la ISO probada:** antiX-26_x64-full  
+- **Fecha:** 08/04/2026 
+- **Software de virtualización:** VirtualBox 
 
 ## 2. Configuración de la VM
-- **CPU asignada:**  
-- **RAM asignada:**  
-- **Disco virtual:**  
-- **Tipo de arranque configurado:**  
-- **Otras opciones relevantes:**  
+- **CPU asignada:** 2 Núcleos 
+- **RAM asignada:** 512MB 
+- **Disco virtual:** 10GB (se puede usar un disco de 5GB si se prefiere usar la versión Live, pudiéndose hacer persistente) 
+- **Tipo de arranque configurado:** Legacy y Normal Boot  
+- **Otras opciones relevantes:** Una vez instalado el sistema, al reiniciarlo, hay que bootear desde el disco duro, si no, abrirá el modo demo. 
 
 ## 3. Resultado del arranque
-Describe aquí qué ha pasado al arrancar la ISO.
+- Ha arrancado sin problema.
 
 ## 4. Resultado del instalador
-Describe aquí si ha entrado al instalador y cómo se ha comportado.
+- Ha entrado al instalador y se ha completado rápido y sin problemas.
 
 ## 5. Resultado final
-Explica si la instalación se ha completado y si el sistema arranca.
+- La instalación se ha completado y el sistema funciona muy fluido a pesar de los limitados recursos de la máquina.
 
 ## 6. Capturas relacionadas
-- `assets/img/22-vm_iso_03/iso-03-arranque.png`
-- `assets/img/22-vm_iso_03/iso-03-instalador.png`
-- `assets/img/22-vm_iso_03/iso-03-resultado.png`
+- ![Arranque](/retos/Reto_01_Seleccion_ISOs_Linux_HP_dc7800/assets/img/22-vm_iso_03/iso-03-arranque.png)
+- ![Arranque](/retos/Reto_01_Seleccion_ISOs_Linux_HP_dc7800/assets/img/22-vm_iso_03/iso-03-arranque1.png)
+- ![Arranque](/retos/Reto_01_Seleccion_ISOs_Linux_HP_dc7800/assets/img/22-vm_iso_03/iso-03-arranque2.png)
+- ![Instalador](/retos/Reto_01_Seleccion_ISOs_Linux_HP_dc7800/assets/img/22-vm_iso_03/iso-03-instalador.png)
+- ![Instalador](/retos/Reto_01_Seleccion_ISOs_Linux_HP_dc7800/assets/img/22-vm_iso_03/iso-03-instalador1.png)
+- ![Instalador](/retos/Reto_01_Seleccion_ISOs_Linux_HP_dc7800/assets/img/22-vm_iso_03/iso-03-instalador2.png)
+- ![Resultado](/retos/Reto_01_Seleccion_ISOs_Linux_HP_dc7800/assets/img/22-vm_iso_03/iso-03-resultado.png)
+- ![Resultado](/retos/Reto_01_Seleccion_ISOs_Linux_HP_dc7800/assets/img/22-vm_iso_03/iso-03-resultado1.png)
 
 ## 7. Valoración
-Indica si esta ISO parece adecuada para el HP real.
+Me parece una muy buena opción para el equipo del taller, consume muy poco, es sencilla de instalar y funciona muy fluido.
