@@ -27,4 +27,4 @@
 - [ ] Respaldo
 
 ## 6. Fuente consultada
-- **Web o documentación oficial:** https://antixlinux.com/ y documentación oficial de Debian.
+- **Web o documentación oficial:** https://antixlinux.com/ y https://debian-beginners-handbook.arpinux.org/trixie-en/index.html

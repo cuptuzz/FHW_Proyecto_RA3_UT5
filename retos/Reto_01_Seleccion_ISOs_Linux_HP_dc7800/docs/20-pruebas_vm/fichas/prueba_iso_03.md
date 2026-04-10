@@ -7,7 +7,7 @@
 
 ## 2. Configuración de la VM
 - **CPU asignada:** 2 Núcleos 
-- **RAM asignada:** 512MB 
+- **RAM asignada:** 512MB (con 1GB irá volando)
 - **Disco virtual:** 10GB (se puede usar un disco de 5GB si se prefiere usar la versión Live, pudiéndose hacer persistente) 
 - **Tipo de arranque configurado:** Legacy y Normal Boot  
 - **Otras opciones relevantes:** Una vez instalado el sistema, al reiniciarlo, hay que bootear desde el disco duro, si no, abrirá el modo demo. 

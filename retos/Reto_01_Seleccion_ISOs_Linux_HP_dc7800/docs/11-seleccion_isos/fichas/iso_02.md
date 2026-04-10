@@ -10,7 +10,7 @@
 ## 2. Requisitos y características
 - **RAM mínima indicada por la fuente:** 256MB 
 - **Espacio en disco mínimo:** 10-15GB 
-- **Tipo de entorno de escritorio:** X11 
+- **Tipo de entorno de escritorio:** LXQt 
 - **Tamaño aproximado de la ISO:** 1,5GB 
 
 ## 3. Motivos de selección

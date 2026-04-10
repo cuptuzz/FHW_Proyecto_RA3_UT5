@@ -3,10 +3,10 @@
 ## Reto 01
 # Selección de ISOs Linux ligeras para HP Compaq dc7800
 
-**Alumno/a:**  
-**Grupo:**  
-**Curso:**  
-**Fecha:**  
+**Alumno/a:** Ugo Pérez Ruiz 
+**Grupo:** 2 
+**Curso:** 1º ASIR  
+**Fecha:** 10/04/2026
 
 ---
 

@@ -1,7 +1,5 @@
 # Datos del HP Compaq dc7800
 
-> Sustituye el contenido de ejemplo por los datos reales de tu equipo.
-
 ## 1. Identificación del equipo
 - **Marca y modelo:** HP Compaq DC7800SF
 - **Número o variante del equipo (si aparece):**  
