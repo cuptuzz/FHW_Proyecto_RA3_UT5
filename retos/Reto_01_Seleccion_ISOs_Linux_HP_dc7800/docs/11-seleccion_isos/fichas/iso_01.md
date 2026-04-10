@@ -1,27 +1,23 @@
 # ISO 01
 
 ## 1. Identificación
-- **Nombre de la distribución:** Puppy Linux 
-- **Versión:** TrixiePup64  
-- **Edición o sabor:** Pup64-Retro-2509 basado en Debian 13.
+- **Nombre de la distribución:** Bodhi Linux 
+- **Versión:** bodhi-7.0.0-64  
+- **Edición o sabor:** Bodhi 7.0.0 basado en Ubuntu.
 - **Arquitectura:** 64 bits 
-- **Enlace oficial de descarga:** https://sourceforge.net/projects/pb-gh-releases/files/TrixiePup64Retro_release/TrixiePup64-Retro-2509-260401.iso/download 
+- **Enlace oficial de descarga:** https://sourceforge.net/projects/bodhilinux/files/7.0.0/bodhi-7.0.0-64.iso/download 
 
 ## 2. Requisitos y características
-- **RAM mínima indicada por la fuente:** 256MB-512MB 
-- **Espacio en disco mínimo:** 400-600MB 
-- **Tipo de entorno de escritorio:** X.Org 
-- **Tamaño aproximado de la ISO:** 1.1GB (Normalmente 1.5GB)
+- **RAM mínima indicada por la fuente:** 512MB 
+- **Espacio en disco mínimo:** 5GB 
+- **Tipo de entorno de escritorio:** Moksha 
+- **Tamaño aproximado de la ISO:** 1.2GB
 
 ## 3. Motivos de selección
-- He elegido esta ISO porque es un sistema operativo basado en Debian (que a mí, por lo menos, me da mucha seguridad), soporta arquitectura de 64 bits de doble núcleo o incluso menos. Requiere mínimo 256-512MB de RAM (dependiendo de la versión de la distro)
+- He elegido esta ISO porque es un sistema operativo basado en Ubuntu, que aporta rendimiento, fiabilidad y facilidad de uso. Sus bajos requisitos mínimos y recomendados convierten a Bodhi Linux en una distribución ideal para el PC que tenemos en el taller.
 
 ## 4. Posibles riesgos o dudas
-- Podría no ser demasiado estable, ya que al utilizar Debian Trixie que es de la parte de testing de Debian puede presentar algún fallo imprevisto, errores de software o inestabilidad general. 
-
-- Puppy Linux por lo general, opera con el usuario root por defecto. Esto puede suponer una brecha de seguridad si cae en malas manos o no se crea un usuario nuevo y se restringe el acceso al usuario root.
-
-- Falta de soporte a largo plazo. Esto se debe a que no es una versión de producción, sino de testing.
+- Tiene una gestión de actualizaciones que no se actualiza con frecuencia.
 
 ## 5. Papel dentro del plan
 - [ ] Opción principal
@@ -29,4 +25,4 @@
 - [X] Respaldo
 
 ## 6. Fuente consultada
-- **Web o documentación oficial:** https://puppylinux-woof-ce.github.io/
+- **Web o documentación oficial:** https://www.bodhilinux.com/

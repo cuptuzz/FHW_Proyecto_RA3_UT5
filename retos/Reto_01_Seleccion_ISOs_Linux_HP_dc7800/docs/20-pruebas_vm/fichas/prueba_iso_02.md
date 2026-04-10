@@ -1,15 +1,15 @@
 # Prueba ISO 02
 
 ## 1. Datos generales
-- **Nombre de la ISO probada:**  
-- **Fecha:**  
-- **Software de virtualización:**  
+- **Nombre de la ISO probada:** SparkyLinux  
+- **Fecha:** 10/04/2026
+- **Software de virtualización:** VirtualBox 
 
 ## 2. Configuración de la VM
-- **CPU asignada:**  
-- **RAM asignada:**  
-- **Disco virtual:**  
-- **Tipo de arranque configurado:**  
+- **CPU asignada:** 2 núcleos 
+- **RAM asignada:** 1GB
+- **Disco virtual:** 15GB 
+- **Tipo de arranque configurado:** Legacy 
 - **Otras opciones relevantes:**  
 
 ## 3. Resultado del arranque
