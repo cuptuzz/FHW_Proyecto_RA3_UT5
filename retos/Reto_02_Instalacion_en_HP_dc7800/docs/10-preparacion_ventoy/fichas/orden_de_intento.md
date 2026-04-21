@@ -2,8 +2,8 @@
 
 ## Orden previsto
 
-1. **Primera opción:**
-   - Motivo:
+1. **Primera opción:** Puppy Linux
+   - Motivo: Era la primera opción que teníamos en el menú de arranque y una de las opciones más ligeras de todas.
 2. **Segunda opción:**
    - Motivo:
 3. **Tercera opción:**
