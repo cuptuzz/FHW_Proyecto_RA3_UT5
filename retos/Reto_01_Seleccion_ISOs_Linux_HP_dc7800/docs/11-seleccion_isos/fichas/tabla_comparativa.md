@@ -10,4 +10,6 @@
 
 - La distribución antiX me parece la más interesante porque al no llevar systemd hace que el procesador Core 2 Duo vaya mucho más fluido que con las otras. 
 
-- Como opción más equilibrada dejo Sparky Linux (ISO 02), ya que al ser una versión mínima me permite montar un sistema Debian a mi medida sin meterle software que no necesite, aunque me toque trabajar más la configuración. Por último, Puppy Linux (ISO 01) es mi opción de seguridad por su capacidad de ejecutarse directamente desde la RAM es algo que me llama la atención y puede ser útil para recuperar datos o trabajar si el disco duro falla.
+- Como opción más equilibrada dejo Bodhi Linux (ISO 01), ya que al ser una versión mínima me permite montar un sistema Debian a mi medida sin meterle software que no necesite, aunque me toque trabajar más la configuración. 
+
+- Por último, Sparky Linux (ISO 02) es mi opción favorita desde un principio por su capacidad de ejecutarse directamente desde la RAM es algo que me llama la atención y puede ser útil para recuperar datos o trabajar si el disco duro falla.

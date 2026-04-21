@@ -1,30 +1,31 @@
 # Prueba ISO 01
 
 ## 1. Datos generales
-- **Nombre de la ISO probada:**  
-- **Fecha:**  
-- **Software de virtualización:**  
+- **Nombre de la ISO probada:** Bodhi Linux  
+- **Fecha:** 10/04/2026 
+- **Software de virtualización:** VirtualBox  
 
 ## 2. Configuración de la VM
-- **CPU asignada:**  
-- **RAM asignada:**  
-- **Disco virtual:**  
-- **Tipo de arranque configurado:**  
-- **Otras opciones relevantes:**  
+- **CPU asignada:** 2 núcleos 
+- **RAM asignada:** 1GB 
+- **Disco virtual:** 10GB 
+- **Tipo de arranque configurado:** Legacy
+- **Otras opciones relevantes:** Una vez instalado el sistema, al reiniciarlo, hay que bootear desde el disco duro, si no, abrirá el modo demo. 
 
 ## 3. Resultado del arranque
-Describe aquí qué ha pasado al arrancar la ISO.
+- Ha arrancado sin problemas.
 
 ## 4. Resultado del instalador
-Describe aquí si ha entrado al instalador y cómo se ha comportado.
+- Ha entrado al instalador y se ha completado algo despacio y sin problemas.
 
 ## 5. Resultado final
-Explica si la instalación se ha completado y si el sistema arranca.
+- La instalación del sistema se completó sin problemas mayores, aunque he notado el rendimiento inicial algo lento con 1GB, pero cuando ha calentado motores iba bastante mejor, aunque no al nivel de antiX.
 
 ## 6. Capturas relacionadas
-- `assets/img/20-vm_iso_01/iso-01-arranque.png`
-- `assets/img/20-vm_iso_01/iso-01-instalador.png`
-- `assets/img/20-vm_iso_01/iso-01-resultado.png`
+- ![Arranque](/retos/Reto_01_Seleccion_ISOs_Linux_HP_dc7800/assets/img/20-vm_iso_01/iso-01-arranque.png)
+- ![Instalador](/retos/Reto_01_Seleccion_ISOs_Linux_HP_dc7800/assets/img/20-vm_iso_01/iso-01-instalacion.png)
+- ![Resultado](/retos/Reto_01_Seleccion_ISOs_Linux_HP_dc7800/assets/img/20-vm_iso_01/iso-01-resultado.png)
+- ![Resultado](/retos/Reto_01_Seleccion_ISOs_Linux_HP_dc7800/assets/img/20-vm_iso_01/iso-01-resultado1.png)
 
 ## 7. Valoración
-Indica si esta ISO parece adecuada para el HP real.
+- Me parece una buena opción, aunque no la mejor debido a que la he notado algo más lenta que las otras.

@@ -6,7 +6,7 @@
 
 ## Configuración aplicada
 - **CPU:** 2 Núcleos  
-- **RAM:** 512MB
+- **RAM:** 1GB
 - **Disco virtual:** 10GB  
 - **Controlador de almacenamiento:** SATA 
 - **Red:** NAT  
