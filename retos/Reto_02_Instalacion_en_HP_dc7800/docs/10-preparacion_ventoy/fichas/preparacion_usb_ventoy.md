@@ -27,7 +27,7 @@
 - Captura o foto del contenido del USB ya preparado:
 - ![ContenidoVentoy](../../../assets/img/10-ventoy_preparado/VentoyPreparado.png)
 - Observaciones:
-  - Aparecen las ISOs elegidas y unas pocas más que agregué al Ventoy para usos personales, también añadí un tema personalizado, que es la carpeta que empieza por Ventoy-Nightmare. (La imagen mostrada es de mi sistema operativo secundario con el que hago el trabajo, ZorinOS).
+  - Aparecen las ISOs que instalamos en el taller no aparecen porque eran del Ventoy de los compañeros y algunas de las ISOs elegidas (y unas pocas más que agregué al Ventoy para usos personales), también añadí un tema personalizado, que es la carpeta que empieza por Ventoy-Nightmare. (La imagen mostrada es de mi sistema operativo secundario con el que hago el trabajo, ZorinOS).
 ## 5. Valoración
 Explica brevemente si la preparación del USB fue sencilla o si surgió alguna dificultad.
   - La preparación e instalación del USB fue muy sencilla, sólo fue instalar Ventoy, abrirlo y formatear desde ahí el USB y añadir las ISOs.
