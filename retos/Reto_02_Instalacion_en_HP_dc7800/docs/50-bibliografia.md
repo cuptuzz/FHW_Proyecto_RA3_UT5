@@ -9,7 +9,4 @@ Prioriza siempre:
 3. foros o tutoriales solo cuando realmente hayan sido necesarios.
 
 ## Fuentes utilizadas
-- [Ventoy](https://www.ventoy.net/)
-- 
-- 
-- 
+- No utilizamos ninguna fuente de información, todo fue fruto de lo que aprendimos en retos anteriores y en las clases de FHW.
